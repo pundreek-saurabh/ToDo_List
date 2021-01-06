@@ -1,3 +1,3 @@
 # ToDo_List
 
-Developed by using HTML , Javascript and CSS . Also there is local storage available for this along with json handling. 
+Developed by using HTML , JavaScript and CSS . Also there is CRUD available using JavaScript .
